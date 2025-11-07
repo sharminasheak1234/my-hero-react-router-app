@@ -1,0 +1,146 @@
+[
+  {
+    "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=400",
+    "title": "TaskMaster Pro",
+    "companyName": "Productivity Labs Inc",
+    "id": 1,
+    "description": "Advanced task management app with AI-powered scheduling and team collaboration features",
+    "size": 45,
+    "reviews": 12847,
+    "ratingAvg": 4.6,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 256 },
+      { "name": "2 star", "count": 512 },
+      { "name": "3 star", "count": 1539 },
+      { "name": "4 star", "count": 3854 },
+      { "name": "5 star", "count": 6686 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400",
+    "title": "Budget Buddy",
+    "companyName": "FinTech Solutions",
+    "id": 2,
+    "description": "Smart expense tracker with real-time financial insights and budget recommendations",
+    "size": 32,
+    "reviews": 8932,
+    "ratingAvg": 4.3,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 179 },
+      { "name": "2 star", "count": 447 },
+      { "name": "3 star", "count": 1340 },
+      { "name": "4 star", "count": 3126 },
+      { "name": "5 star", "count": 3840 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=400",
+    "title": "FitTrack Elite",
+    "companyName": "HealthTech Global",
+    "id": 3,
+    "description": "Comprehensive fitness tracking with workout plans, nutrition guides, and health metrics",
+    "size": 68,
+    "reviews": 23451,
+    "ratingAvg": 4.8,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 235 },
+      { "name": "2 star", "count": 469 },
+      { "name": "3 star", "count": 1876 },
+      { "name": "4 star", "count": 5163 },
+      { "name": "5 star", "count": 15708 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=400",
+    "title": "MeetSync",
+    "companyName": "CollabWorks",
+    "id": 4,
+    "description": "Video conferencing platform with screen sharing, recording, and virtual whiteboard",
+    "size": 95,
+    "reviews": 15678,
+    "ratingAvg": 4.2,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 471 },
+      { "name": "2 star", "count": 785 },
+      { "name": "3 star", "count": 2195 },
+      { "name": "4 star", "count": 4704 },
+      { "name": "5 star", "count": 7523 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1592478411213-6153e4ebc07d?w=400",
+    "title": "PhotoArt Studio",
+    "companyName": "Creative Vision Apps",
+    "id": 5,
+    "description": "Professional photo editing suite with AI enhancement tools and creative filters",
+    "size": 112,
+    "reviews": 31205,
+    "ratingAvg": 4.7,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 312 },
+      { "name": "2 star", "count": 624 },
+      { "name": "3 star", "count": 2496 },
+      { "name": "4 star", "count": 7809 },
+      { "name": "5 star", "count": 19964 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?w=400",
+    "title": "Language Quest",
+    "companyName": "EduTech International",
+    "id": 6,
+    "description": "Interactive language learning app with gamification and native speaker conversations",
+    "size": 78,
+    "reviews": 19843,
+    "ratingAvg": 4.5,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 397 },
+      { "name": "2 star", "count": 595 },
+      { "name": "3 star", "count": 1984 },
+      { "name": "4 star", "count": 5555 },
+      { "name": "5 star", "count": 11312 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=400",
+    "title": "SecureVault",
+    "companyName": "CyberShield Security",
+    "id": 7,
+    "description": "Password manager with military-grade encryption and biometric authentication",
+    "size": 28,
+    "reviews": 9876,
+    "ratingAvg": 4.9,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 99 },
+      { "name": "2 star", "count": 148 },
+      { "name": "3 star", "count": 592 },
+      { "name": "4 star", "count": 1975 },
+      { "name": "5 star", "count": 7062 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=400",
+    "title": "TeamChat Pro",
+    "companyName": "Connect Networks",
+    "id": 8,
+    "description": "Enterprise messaging platform with channels, file sharing, and integrations",
+    "size": 52,
+    "reviews": 17234,
+    "ratingAvg": 4.4,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 345 },
+      { "name": "2 star", "count": 689 },
+      { "name": "3 star", "count": 2069 },
+      { "name": "4 star", "count": 5515 },
+      { "name": "5 star", "count": 8616 }
+    ]
+  }
+]

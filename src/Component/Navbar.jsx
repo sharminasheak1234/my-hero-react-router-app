@@ -1,6 +1,7 @@
 import React from 'react';
-import { Link } from 'react-router';
+import { Link, NavLink } from 'react-router';
 import { Github } from 'lucide-react';
+import logo from '../assets/logo.png';
 
 
 const Navbar = () => {
@@ -15,30 +16,33 @@ const Navbar = () => {
       <ul
         tabIndex="-1"
         className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
-        <li><a>Home</a></li>
+        <li><NavLink to='/Home'>Home</NavLink></li>
         <li>
-          <a>Application</a>
+          <NavLink to='/Application'>Application</NavLink>
         </li>
-        <li><a>Installation</a></li>
+        <li className="text-purple-800"><NavLink to='/Installation'>Installation</NavLink></li>
       </ul>
     </div>
-    <Link to ='/' className="btn btn-ghost text-xl">daisyUI</Link>
+    <Link to='/Home' className="btn btn-ghost">
+  <img src={logo} alt="Hero Logo" className="h-8 w-auto" />
+  <h2 className="text-purple-800">HERO.IO</h2>
+</Link>
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1">
-      <li><a>Home</a></li>
+      <li><NavLink to='/Home'>Home</NavLink></li>
       <li>
-        <summary>Application</summary>
+        <NavLink to='/Application'>Application</NavLink>
       </li>
-      <li><a>Installation</a></li>
+      <li className="text-purple-800"><NavLink to='/Installation'>Installation</NavLink></li>
     </ul>
   </div>
   <div className="navbar-end">
   <a 
-    href="https://github.com/your-username/your-repo" 
+    href="https://github.com/sharminasheak1234/my-hero-react-router-app" 
     target="_blank" 
     rel="noopener noreferrer"
-    className="btn"
+    className="btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white border-none hover:opacity-90"
   >
     <Github className="w-5 h-5 mr-2" />
     Contribute
