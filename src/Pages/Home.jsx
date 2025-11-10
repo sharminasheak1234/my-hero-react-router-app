@@ -1,13 +1,16 @@
 import React from 'react';
 import HomeCard from '../Component/HomeCard';
-import { Link, NavLink, useLoaderData } from 'react-router';
+import { Link, NavLink,  } from 'react-router';
 import hero from '../assets/hero.png';
+import useProduct from '../hooks/useProduct';
 
 const Home = () => {
-    const products= useLoaderData()
+    
+
+   const {products,loading, error} = useProduct()
     const feturedProducts =products.slice(0,8)
     return (
-         <div className='bg-gray-100'>
+         <div>
                  
 
     <div className="flex mx-auto max-w-fit flex-col items-center justify-center ">
