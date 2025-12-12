@@ -89,11 +89,12 @@ const Home = () => {
                 <HomeCard key={product.id} product={product} />
             )}
            </div>
-           
-            
-            <Link className='btn btn-outline flex justify-between py-5 items-center' to='/Application'>
+            <div className=' flex justify-center'>  
+            <Link className='btn btn-outline bg-violet-700 items-center text-white rounded' to='/Application'>
           See All Products
         </Link>
+           </div>
+
             </div>
     </div>
   

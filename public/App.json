@@ -6,9 +6,9 @@
     "id": 1,
     "description": "A powerful task management app that helps you organize your daily activities and boost productivity with smart reminders and collaboration features.",
     "size": 45.2,
-    "reviews": 12847,
+    "reviews": "13K",
     "ratingAvg": 4.6,
-    "downloads": 1250000,
+    "downloads": "1M",
     "ratings": [
       { "name": "1 star", "count": 385 },
       { "name": "2 star", "count": 642 },
@@ -24,9 +24,9 @@
     "id": 2,
     "description": "Track your fitness journey with advanced metrics, personalized workout plans, and nutrition tracking to achieve your health goals faster.",
     "size": 78.5,
-    "reviews": 24563,
+    "reviews": "25K",
     "ratingAvg": 4.8,
-    "downloads": 3400000,
+    "downloads": "3M",
     "ratings": [
       { "name": "1 star", "count": 245 },
       { "name": "2 star", "count": 491 },
@@ -42,9 +42,9 @@
     "id": 3,
     "description": "Manage your finances effortlessly with expense tracking, budget planning, and insightful reports to help you save more money.",
     "size": 32.1,
-    "reviews": 8934,
+    "reviews": "9K",
     "ratingAvg": 4.4,
-    "downloads": 890000,
+    "downloads": "1M",
     "ratings": [
       { "name": "1 star", "count": 268 },
       { "name": "2 star", "count": 536 },
@@ -60,9 +60,9 @@
     "id": 4,
     "description": "Professional photo editing tools with AI-powered enhancements, filters, and effects to make your photos stand out on social media.",
     "size": 125.8,
-    "reviews": 45621,
+    "reviews": "46K",
     "ratingAvg": 4.7,
-    "downloads": 5600000,
+    "downloads": "6M",
     "ratings": [
       { "name": "1 star", "count": 912 },
       { "name": "2 star", "count": 1368 },
@@ -78,9 +78,9 @@
     "id": 5,
     "description": "Learn new languages with interactive lessons, native speaker audio, and gamified exercises that make learning fun and effective.",
     "size": 56.3,
-    "reviews": 18745,
+    "reviews": "19K",
     "ratingAvg": 4.5,
-    "downloads": 2100000,
+    "downloads": "2M",
     "ratings": [
       { "name": "1 star", "count": 562 },
       { "name": "2 star", "count": 937 },
@@ -96,9 +96,9 @@
     "id": 6,
     "description": "Discover thousands of recipes from around the world with step-by-step instructions, ingredient lists, and cooking timers.",
     "size": 41.7,
-    "reviews": 15234,
+    "reviews": "15K",
     "ratingAvg": 4.3,
-    "downloads": 1750000,
+    "downloads": "2M",
     "ratings": [
       { "name": "1 star", "count": 609 },
       { "name": "2 star", "count": 914 },
@@ -114,9 +114,9 @@
     "id": 7,
     "description": "Get accurate weather forecasts with hourly updates, severe weather alerts, and interactive radar maps for your location.",
     "size": 28.4,
-    "reviews": 32156,
+    "reviews": "32K",
     "ratingAvg": 4.6,
-    "downloads": 4800000,
+    "downloads": "5M",
     "ratings": [
       { "name": "1 star", "count": 643 },
       { "name": "2 star", "count": 1286 },
@@ -132,9 +132,9 @@
     "id": 8,
     "description": "Stream millions of songs with high-quality audio, personalized playlists, and offline listening for music lovers everywhere.",
     "size": 92.6,
-    "reviews": 67842,
+    "reviews": "68K",
     "ratingAvg": 4.7,
-    "downloads": 8900000,
+    "downloads": "9M",
     "ratings": [
       { "name": "1 star", "count": 1356 },
       { "name": "2 star", "count": 2035 },
@@ -150,9 +150,9 @@
     "id": 9,
     "description": "Organize your study schedule with smart reminders, progress tracking, and flashcards to ace your exams and assignments.",
     "size": 34.9,
-    "reviews": 9876,
+    "reviews": "10K",
     "ratingAvg": 4.4,
-    "downloads": 950000,
+    "downloads": "1M",
     "ratings": [
       { "name": "1 star", "count": 296 },
       { "name": "2 star", "count": 593 },
@@ -168,9 +168,9 @@
     "id": 10,
     "description": "Explore destinations worldwide with detailed travel guides, local tips, and offline maps for your next adventure.",
     "size": 68.2,
-    "reviews": 21547,
+    "reviews": "22K",
     "ratingAvg": 4.5,
-    "downloads": 2800000,
+    "downloads": "3M",
     "ratings": [
       { "name": "1 star", "count": 646 },
       { "name": "2 star", "count": 1077 },
@@ -186,9 +186,9 @@
     "id": 11,
     "description": "Exercise at home with guided workouts, video tutorials, and customizable fitness plans that require no equipment.",
     "size": 54.1,
-    "reviews": 16892,
+    "reviews": "17K",
     "ratingAvg": 4.6,
-    "downloads": 2300000,
+    "downloads": "2M",
     "ratings": [
       { "name": "1 star", "count": 338 },
       { "name": "2 star", "count": 675 },
@@ -204,267 +204,15 @@
     "id": 12,
     "description": "Stay informed with breaking news, personalized news feeds, and in-depth articles from trusted sources worldwide.",
     "size": 38.7,
-    "reviews": 28934,
+    "reviews": "29K",
     "ratingAvg": 4.3,
-    "downloads": 3900000,
+    "downloads": "4M",
     "ratings": [
       { "name": "1 star", "count": 1157 },
       { "name": "2 star", "count": 1736 },
       { "name": "3 star", "count": 5787 },
       { "name": "4 star", "count": 8680 },
       { "name": "5 star", "count": 11574 }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/200/200?random=13",
-    "title": "Shopping Smart",
-    "companyName": "E-Commerce Solutions",
-    "id": 13,
-    "description": "Find the best deals online with price comparisons, coupon codes, and personalized shopping recommendations.",
-    "size": 47.3,
-    "reviews": 19764,
-    "ratingAvg": 4.4,
-    "downloads": 2650000,
-    "ratings": [
-      { "name": "1 star", "count": 592 },
-      { "name": "2 star", "count": 988 },
-      { "name": "3 star", "count": 3953 },
-      { "name": "4 star", "count": 5929 },
-      { "name": "5 star", "count": 8302 }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/200/200?random=14",
-    "title": "Meditation Calm",
-    "companyName": "Mindful Living Apps",
-    "id": 14,
-    "description": "Reduce stress and improve mental wellness with guided meditations, breathing exercises, and sleep stories.",
-    "size": 61.5,
-    "reviews": 34218,
-    "ratingAvg": 4.8,
-    "downloads": 4500000,
-    "ratings": [
-      { "name": "1 star", "count": 342 },
-      { "name": "2 star", "count": 684 },
-      { "name": "3 star", "count": 3422 },
-      { "name": "4 star", "count": 10265 },
-      { "name": "5 star", "count": 19505 }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/200/200?random=15",
-    "title": "Pet Care Manager",
-    "companyName": "Animal Lovers Tech",
-    "id": 15,
-    "description": "Track your pet's health, schedule vet appointments, and get expert tips on pet care and training.",
-    "size": 36.8,
-    "reviews": 7845,
-    "ratingAvg": 4.5,
-    "downloads": 780000,
-    "ratings": [
-      { "name": "1 star", "count": 157 },
-      { "name": "2 star", "count": 314 },
-      { "name": "3 star", "count": 1569 },
-      { "name": "4 star", "count": 2353 },
-      { "name": "5 star", "count": 3452 }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/200/200?random=16",
-    "title": "Video Editor Max",
-    "companyName": "Creative Studio Pro",
-    "id": 16,
-    "description": "Edit videos like a pro with powerful tools, transitions, effects, and music to create stunning content for social media.",
-    "size": 156.4,
-    "reviews": 41256,
-    "ratingAvg": 4.6,
-    "downloads": 6200000,
-    "ratings": [
-      { "name": "1 star", "count": 1237 },
-      { "name": "2 star", "count": 2062 },
-      { "name": "3 star", "count": 4125 },
-      { "name": "4 star", "count": 12376 },
-      { "name": "5 star", "count": 21456 }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/200/200?random=17",
-    "title": "Parking Finder",
-    "companyName": "Urban Mobility Inc",
-    "id": 17,
-    "description": "Find and reserve parking spots in advance with real-time availability, pricing information, and navigation assistance.",
-    "size": 29.6,
-    "reviews": 11234,
-    "ratingAvg": 4.2,
-    "downloads": 1350000,
-    "ratings": [
-      { "name": "1 star", "count": 562 },
-      { "name": "2 star", "count": 899 },
-      { "name": "3 star", "count": 2247 },
-      { "name": "4 star", "count": 4493 },
-      { "name": "5 star", "count": 3033 }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/200/200?random=18",
-    "title": "Plant Identifier",
-    "companyName": "GreenThumb Technologies",
-    "id": 18,
-    "description": "Identify plants instantly by taking a photo, get care tips, and track your garden's growth with our plant database.",
-    "size": 73.2,
-    "reviews": 13567,
-    "ratingAvg": 4.7,
-    "downloads": 1850000,
-    "ratings": [
-      { "name": "1 star", "count": 271 },
-      { "name": "2 star", "count": 407 },
-      { "name": "3 star", "count": 2035 },
-      { "name": "4 star", "count": 4070 },
-      { "name": "5 star", "count": 6784 }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/200/200?random=19",
-    "title": "Password Vault",
-    "companyName": "SecureLife Systems",
-    "id": 19,
-    "description": "Store all your passwords securely with military-grade encryption, auto-fill features, and cross-device synchronization.",
-    "size": 25.3,
-    "reviews": 26845,
-    "ratingAvg": 4.8,
-    "downloads": 3700000,
-    "ratings": [
-      { "name": "1 star", "count": 268 },
-      { "name": "2 star", "count": 536 },
-      { "name": "3 star", "count": 2684 },
-      { "name": "4 star", "count": 8053 },
-      { "name": "5 star", "count": 15304 }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/200/200?random=20",
-    "title": "Book Reader",
-    "companyName": "Digital Library Corp",
-    "id": 20,
-    "description": "Read thousands of ebooks with customizable fonts, night mode, and bookmark features for an optimal reading experience.",
-    "size": 44.9,
-    "reviews": 22456,
-    "ratingAvg": 4.5,
-    "downloads": 2900000,
-    "ratings": [
-      { "name": "1 star", "count": 674 },
-      { "name": "2 star", "count": 1123 },
-      { "name": "3 star", "count": 3368 },
-      { "name": "4 star", "count": 6737 },
-      { "name": "5 star", "count": 10554 }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/200/200?random=21",
-    "title": "Drawing Pad Pro",
-    "companyName": "Artist Tools Inc",
-    "id": 21,
-    "description": "Create digital art with professional brushes, layers, and tools designed for artists of all skill levels.",
-    "size": 118.7,
-    "reviews": 17834,
-    "ratingAvg": 4.6,
-    "downloads": 2400000,
-    "ratings": [
-      { "name": "1 star", "count": 535 },
-      { "name": "2 star", "count": 892 },
-      { "name": "3 star", "count": 2675 },
-      { "name": "4 star", "count": 5350 },
-      { "name": "5 star", "count": 8382 }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/200/200?random=22",
-    "title": "QR Scanner Plus",
-    "companyName": "Scan Tech Solutions",
-    "id": 22,
-    "description": "Scan QR codes and barcodes instantly with history tracking, code generation, and batch scanning capabilities.",
-    "size": 18.5,
-    "reviews": 14567,
-    "ratingAvg": 4.4,
-    "downloads": 2100000,
-    "ratings": [
-      { "name": "1 star", "count": 437 },
-      { "name": "2 star", "count": 728 },
-      { "name": "3 star", "count": 2913 },
-      { "name": "4 star", "count": 4370 },
-      { "name": "5 star", "count": 6119 }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/200/200?random=23",
-    "title": "Habit Tracker",
-    "companyName": "Goal Achievers LLC",
-    "id": 23,
-    "description": "Build better habits with daily tracking, streak counters, and motivational insights to help you reach your goals.",
-    "size": 31.2,
-    "reviews": 10945,
-    "ratingAvg": 4.5,
-    "downloads": 1400000,
-    "ratings": [
-      { "name": "1 star", "count": 328 },
-      { "name": "2 star", "count": 547 },
-      { "name": "3 star", "count": 2189 },
-      { "name": "4 star", "count": 3283 },
-      { "name": "5 star", "count": 4598 }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/200/200?random=24",
-    "title": "Voice Recorder",
-    "companyName": "Audio Tech Group",
-    "id": 24,
-    "description": "Record high-quality audio with transcription features, cloud backup, and easy sharing options for meetings and notes.",
-    "size": 27.8,
-    "reviews": 18234,
-    "ratingAvg": 4.3,
-    "downloads": 2200000,
-    "ratings": [
-      { "name": "1 star", "count": 729 },
-      { "name": "2 star", "count": 1093 },
-      { "name": "3 star", "count": 3647 },
-      { "name": "4 star", "count": 5470 },
-      { "name": "5 star", "count": 7295 }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/200/200?random=25",
-    "title": "Sleep Tracker",
-    "companyName": "RestWell Technologies",
-    "id": 25,
-    "description": "Monitor your sleep patterns, analyze sleep quality, and get personalized recommendations for better rest.",
-    "size": 49.6,
-    "reviews": 25678,
-    "ratingAvg": 4.7,
-    "downloads": 3300000,
-    "ratings": [
-      { "name": "1 star", "count": 513 },
-      { "name": "2 star", "count": 770 },
-      { "name": "3 star", "count": 2568 },
-      { "name": "4 star", "count": 7703 },
-      { "name": "5 star", "count": 14124 }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/200/200?random=26",
-    "title": "Calorie Counter",
-    "companyName": "NutriFit Apps",
-    "id": 26,
-    "description": "Track your daily calorie intake with a comprehensive food database, barcode scanning, and nutritional insights.",
-    "size": 52.4,
-    "reviews": 31245,
-    "ratingAvg": 4.6,
-    "downloads": 4100000,
-    "ratings": [
-      { "name": "1 star", "count": 937 },
-      { "name": "2 star", "count": 1562 },
-      { "name": "3 star", "count": 3124 },
-      { "name": "4 star", "count": 9373 },
-      { "name": "5 star", "count": 16249 }
     ]
   }
 ]

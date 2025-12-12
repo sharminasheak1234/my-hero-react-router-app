@@ -1,13 +1,21 @@
 import React from 'react';
 import { Download } from 'lucide-react';
 import { Star } from 'lucide-react';
+import { Link, useNavigate } from 'react-router';
 
 const HomeCard = ({product}) => {
-  const {title, image, downloads, ratingAvg} = product
+  const {title, image, downloads, ratingAvg, id} = product
+const navigate = useNavigate();
 
+  const handleClick = () => {
+    navigate(`/product/${id}`);
+  };
     return (
-        <div>
-             <div className="card bg-base-100 shadow-sm hover:scale-105 transition ease-in-out">
+        <div  onClick={handleClick}>
+          
+           
+          
+             <div  className="card bg-base-100 shadow-sm hover:scale-105 transition ease-in-out">
     <figure className="h-48 overflow-hidden">
         <img
           src={image}
@@ -26,7 +34,7 @@ const HomeCard = ({product}) => {
     </div>
   </div>
 </div>
- 
+
         </div>
        
     );
